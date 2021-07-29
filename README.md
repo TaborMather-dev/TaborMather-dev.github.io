@@ -1,2 +1,2 @@
 # TaborMather-dev.github.io
-Portfolio sit for the Tabor Mather, student software developer
+Portfolio site for the Tabor Mather, student software developer
