@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: fantasy;
+    padding: 10px;
+    background: #154c70;
+}
+
+.header {
+    padding: 30px;
+    border-style: double;
+    border-width: 20px;
+    border-color: rgb(82, 32, 177);
+    text-align: center;
+    background: #154c70;
+    border-style: solid;
+    border-color: rgb(82, 32, 177);
+}
+
+.header h1 {
+    font-size: 72px;
+}
+
+section.rightcolumn {
+    width: 25%;
+    background-color: rgb(82, 32, 177);
+    padding-left: 20px;
+    border-style: solid;
+    border-color: ;
+}
+
+.footer {
+    padding: 20px;
+    text-align: center;
+    background: #ddd;
+    margin-top: 20px;
+}
